@@ -1,6 +1,6 @@
 # ESR-2324
 
-Trabalho prático realizado no âmbito da cadeira Engenharia de Serviços em Rede no ano letivo 2023/2024.
+The aim of this project is the creation of an overlay network.
 
 ## Grupo
 | Número    | Nome                                               |
